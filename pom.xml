@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.sboychenko</groupId>
-    <artifactId>tread-loader</artifactId>
+    <artifactId>thread-loader</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
